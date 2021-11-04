@@ -1,0 +1,14 @@
+.container {
+  width: 500px;
+  height: 60vh;
+  margin-top: 100px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2), -5px -5px 5px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+form {
+  margin: 20px;
+}
