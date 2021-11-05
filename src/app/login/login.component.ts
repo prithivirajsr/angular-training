@@ -7,5 +7,10 @@ import { Component } from '@angular/core';
 })
 
 export class LoginComponent{
+    hideForgotPassword = false;
+    showForgotPassword(){
+      this.hideForgotPassword = !this.hideForgotPassword;
+    }
+    
     
 }
